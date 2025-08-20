@@ -22,5 +22,3 @@ Users can **sign up, log in, choose a mood, and instantly play songs** through a
 - **Audio Handling** → Base64 encoding for playback
 
 ---
-
-## Project Structure
